@@ -1,0 +1,17 @@
+.card-text{
+    color:green;
+    font-weight:500;
+}
+.card-title{
+    font-weight:bold;
+}
+.card{
+    box-shadow:3px 3px 7px rgb(155, 117, 117);
+    margin:5px 2px;
+}
+.topic{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.head{
+    font-family: cursive;
+}
